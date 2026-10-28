@@ -68,6 +68,9 @@ Run the trained agent (renders the game window):
 - Trained for 21,000+ episodes
 - Training progress is logged in runs/flappybirdv0.log
 
+## Demo GIF
+https://github.com/user-attachments/assets/000f277d-a473-432d-bf40-e16cc1bc8a35
+
 ## Acknowledgments
 
 - [flappy-bird-gymnasium](https://github.com/markub3327/flappy-bird-gymnasium) for the environment
